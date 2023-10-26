@@ -1,5 +1,5 @@
 public class Funcionalidades {
-    public static void generarTablero(){
+    public static void generarTablero(new char[10][2]){
 
         System.out.println("E");
 
